@@ -1,0 +1,10 @@
+# Backups generados
+backup-*.tar.gz
+*.zip
+
+# Archivos de prueba
+important-documents/
+pruebas/
+
+# Archivos temporales
+*.log
